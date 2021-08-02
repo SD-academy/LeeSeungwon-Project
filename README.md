@@ -1,4 +1,4 @@
-# seung-won-LEE-Project
+# LeeSeungwon Project
 
 
 ## 참고 :  https://github.com/LeeSeungwon89/Lecture-and-self-study
